@@ -12,6 +12,7 @@ Please try to write the commits in english, stating the change that it makes, an
 2. Make sure all the new files included have a valid license comment
 3. Include Doxygen documentation in each one of the classes created including relevant information to understand it.
 4. Open a Pull Request or contact [Dr Jose M. Dominguez](mailto:jmdalonso@gmail.com) via email to agree on including the new features or the changes.
+5. Add specific test cases to illustrate your fix/feature.
 
 ## For internal developers: Contributions and documentation
 
